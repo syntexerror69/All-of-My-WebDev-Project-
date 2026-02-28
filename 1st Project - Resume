@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Page Assignment</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>MOHD ABUZAR</h1>
+
+
+
+        <p>
+            Full Stack Web Developer | Web Designer | Tech enthusiast
+        </p>
+    </header>
+
+    <hr>
+
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>
+                I am a passionate Full Stack Web Developer with a strong background in web design and a keen interest in
+                technology. With experience in both front-end and back-end development, I enjoy creating dynamic and
+                responsive websites that provide an excellent user experience. My goal is to continuously learn and grow
+                in the tech industry while contributing to innovative projects.
+            </p>
+        </section>
+        <hr>
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML5, CSS3</li>
+                <li>JavaScript</li>
+                <li>React & Vue.js</li>
+                <li>Node.js & Express.js</li>
+                <li>MongoDB & MySQL</li>
+                <li>Git, GitHub</li>
+            </ul>
+        </section>
+        <hr>
+
+        <section>
+            <h2>Experience</h2>
+
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>Position</th>
+                        <th>Company</th>
+                        <th>Duration</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Senior Developer</td>
+                        <td>Tech Solution Inc</td>
+                        <td>2021 - Present</td>
+                    </tr>
+                    <tr>
+                        <td>Web Developer</td>
+                        <td>Digital Innovation</td>
+                        <td>2019 - 2021</td>
+                    </tr>
+                    <tr>
+                        <td>Junior Developer</td>
+                        <td>StartUpco.</td>
+                        <td>2018 - 2019</td>
+                    </tr>
+            </table>
+
+        </section>
+        <hr>
+
+        <section>
+            <h2>Projects</h2>
+            <h3>Project 1: E-Commerce Website</h3>
+            <p>
+                Built a fully functional e-commerce website with product listing ,cart management and payment integration.
+
+                <ul>
+                    <li>Technologies Used: React, Node.js, MongoDB</li>
+                    <li>Timeline: 3 months</li>
+                    
+                </ul>
+            
+            </p>
+
+            
+            <h3>Project 2: Blog Platform</h3>
+            <p>
+                Built a fully functional blog platform with user authentication and content management features.
+
+                <ul>
+                    <li>Technologies Used: html5, css3, javascript, express.js</li>
+                    <li>Timeline: 3 months</li>
+                    
+                </ul>
+            
+            </p>
+        </section>
+        <hr>
+        <section>
+            <h2>Education</h2>
+            
+                <table border="1">
+                <thead>
+                    <tr>
+                        <th>Degree</th>
+                        <th>Institution</th>
+                        <th>Year</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <tr>
+                        <td>Bachelor in Computer Science</td>
+                        <td>University of Technology</td>
+                        <td>2021 - 2025</td>
+                    </tr>
+                    <tr>
+                        <td>Full Stack Web Development Bootcamp</td>
+                        <td>Online Code Academy</td>
+                        <td>2025</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+        <hr>
+
+          <footer>
+
+            <h2><strong>Contact : </strong> Information</h2>
+            <p><strong>Email:</strong> john.doe@example.com</p>
+            <p><strong>Phone:</strong> (123) 456-7890</p>
+            <hr>
+            <p>© 2025 John Doe. All rights reserved.</p>
+
+        </footer>
+
+    </main>
+
+</body>
+
+</html>
