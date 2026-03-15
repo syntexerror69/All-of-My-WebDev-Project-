@@ -2,7 +2,7 @@ NOTE : Please see this website on laptop or desktop dont open it on phone beacus
 
 See live website hare : https://mintlify-clone-project-01.netlify.app/
 
-Screenshorts : It is attached to this readme.md file
+Screenshorts : See screenshort folder
 
 Sections Recreated
 
