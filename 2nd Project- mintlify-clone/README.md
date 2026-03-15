@@ -1,5 +1,4 @@
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  Please see this website on laptop or desktop dont open it on phone beacuse it is not responsive   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+NOTE : Please see this website on laptop or desktop dont open it on phone beacuse it is not responsive   
 
 See live website hare : https://mintlify-clone-project-01.netlify.app/
 
