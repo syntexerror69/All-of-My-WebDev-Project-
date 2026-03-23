@@ -1,6 +1,6 @@
 NOTE : Please see this website on laptop or desktop dont open it on phone beacuse it is not responsive   
 
-See live website hare : https://mintlify-clone-project-01.netlify.app/
+See live website hare : https://project-01-mintlify-com-ui-clone.netlify.app/
 
 Screenshorts : See screenshort folder
 
