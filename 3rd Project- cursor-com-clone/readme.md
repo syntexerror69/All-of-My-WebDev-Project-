@@ -4,29 +4,24 @@ See live website hare : https://3rd-project-cursor-com-clone.netlify.app/
 
 Screenshorts : See screenshort folder
 
-Sections Recreated
+✅ Sections Recreated
+Navbar
+Hero section
+Trusted logos
+Feature sections (3)
+Features grid (6 cards)
+Testimonials
+Use cases
+Changelog
+About section
+Final CTA
+Footer
 
+✅ Fonts Used
+Inter (main font)
+Google Sans Flex (imported but not used)
 
--> Hero Section – heading, description, email input, Start Now button
--> Cards Section – Navigate Content, Main Content, Bonus
--> Trusted By Section – heading
--> Logos Section – company logos (Apple, Microsoft, etc.)
--> Built for the Intelligence Age – heading + paragraph
--> Feature Highlights – Customizable Theme, Powerful Integration
--> AI Assistance Section – text, description, image, button
--> Customer Success Stories – 3 case study cards
--> Footer – Product, Resources, Company, Contact, Legal
-
-___________________________________________________________________
-Fonts Used
-
--> Inter (Google Fonts)
--> font-family: "Inter", sans-serif;
-___________________________________________________________________
-Colors Used
-
--> White: #FFFFFF
--> Transparent gray: #eeeded75
--> Card background: rgb(211,206,206)
--> Glass effect: rgba(255,255,255,0.15)
--> Border: black
+✅ Colors Used
+Background: #050505, #0B0B0B, #0F0F0F
+Text: #FFFFFF, #F5F5F5, #CFCFCF, #969696, #707070
+Borders: #707070, rgba(255,255,255,0.2)
